@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Product Manager currently working at [Microsoft](https://microsoft.com), previously a software engineer currently working at [VMware](https://www.vmware.com/), previously at [RedHat](https://www.redhat.com/en) and others.  Currently, I work in the auth space in the world of Kubernetes, and previously worked for many years in UI/UX.
+I'm a Product Manager currently working at [Microsoft](https://microsoft.com). Previously I was a software engineer at [VMware](https://www.vmware.com/), [RedHat](https://www.redhat.com/en) and elsewhere.  I work in the auth space in the world of Kubernetes and have a past life in UI/UX.
 
 
 <!--
