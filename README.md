@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a software engineer currently working at [VMware](https://www.vmware.com/), previously at [RedHat](https://www.redhat.com/en) and others.  Currently I work in authorization/authentication space in Golang and the world of Kubernetes, and previously worked for many years in UI/UX.
+I'm a Product Manager currently working at [Microsoft](https://microsoft.com), previously a software engineer currently working at [VMware](https://www.vmware.com/), previously at [RedHat](https://www.redhat.com/en) and others.  Currently, I work in the auth space in the world of Kubernetes, and previously worked for many years in UI/UX.
 
 <!--
 **benjaminapetersen/benjaminapetersen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
